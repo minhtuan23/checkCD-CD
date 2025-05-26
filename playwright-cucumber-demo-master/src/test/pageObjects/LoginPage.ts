@@ -44,6 +44,6 @@ export default class LoginPage{
     }
 
     return results;
-    // check comment
+
   }
 }
